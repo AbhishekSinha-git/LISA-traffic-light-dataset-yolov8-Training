@@ -193,7 +193,3 @@ g) Sample Validation Predictions : These images provide a qualitative look at th
 *   The Ultralytics team for the YOLOv8 implementation and library.
 *   Kaggle for the cloud computing platform.
 *   Bosch Global Software Technologies for organizing the BOROSA Hackathon.
-
----
-
-*(Optional: Add a License section, e.g., MIT License)*
