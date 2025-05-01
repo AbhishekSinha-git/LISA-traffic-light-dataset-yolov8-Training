@@ -1,5 +1,7 @@
 # YOLOv8n Traffic Light Detection (LISA Dataset) - BOROSA Hackathon
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 ## 1. Project Overview
 
 This project was developed as part of the **Bosch Road Safety Hackathon (BOROSA) 2025 - Prelim Hackathon**. The specific problem statement addressed was **"Code Red | Traffic Violation Detection System"**, focusing on developing an intelligent system to recognize Red Signal Jumps.
